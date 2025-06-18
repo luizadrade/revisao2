@@ -1,0 +1,1 @@
+let produtos = ['Placa Mãe', 'Processador', 'SSD 240GB'];let quantidade = produtos.length; /* Verifica quantos itens existem */console.log("Temos", quantidade, "produtos na lista."); // Saída: Temos 3 produtos na lista.// O 'length' é sempre o ÚLTIMO ÍNDICE + 1.// Ele é atualizado automaticamente quando adicionamos ou removemos itens!
